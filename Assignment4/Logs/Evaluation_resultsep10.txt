@@ -1,0 +1,3 @@
+
+lasot              | AUC        | OP50       | OP75       | Precision    | Norm Precision    |
+seqtrack_b256      | 11.18      | 1.00       | 0.43       | 1.25         | 1.64              |

@@ -1,0 +1,22 @@
+
+                            | seqtrack_b256    |
+frog-20 (ID=0)              | 5.72             |
+frog-18 (ID=1)              | 11.93            |
+frog-19 (ID=2)              | 49.32            |
+frog-17 (ID=3)              | 12.02            |
+fox-18 (ID=4)               | 57.42            |
+fox-20 (ID=5)               | 3.27             |
+fox-19 (ID=6)               | 38.78            |
+fox-17 (ID=7)               | 19.02            |
+flag-19 (ID=8)              | 6.55             |
+flag-17 (ID=9)              | 26.50            |
+flag-20 (ID=10)             | 50.98            |
+flag-18 (ID=11)             | 44.15            |
+elephant-20 (ID=12)         | 16.25            |
+elephant-17 (ID=13)         | 18.64            |
+elephant-18 (ID=14)         | 45.13            |
+elephant-19 (ID=15)         | 36.40            |
+electricfan-20 (ID=16)      | 41.35            |
+electricfan-17 (ID=17)      | 47.35            |
+electricfan-19 (ID=18)      | 48.61            |
+electricfan-18 (ID=19)      | 8.10             |

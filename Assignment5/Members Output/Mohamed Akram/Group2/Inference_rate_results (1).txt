@@ -1,0 +1,22 @@
+
+                          | seqtrack_b256    |
+gametarget-20 (ID=0)      | 0.06             |
+gametarget-18 (ID=1)      | 0.20             |
+gametarget-19 (ID=2)      | 0.13             |
+gametarget-17 (ID=3)      | 0.13             |
+gecko-18 (ID=4)           | 0.21             |
+gecko-20 (ID=5)           | 0.18             |
+gecko-19 (ID=6)           | 0.39             |
+gecko-17 (ID=7)           | 0.18             |
+giraffe-19 (ID=8)         | 0.32             |
+giraffe-17 (ID=9)         | 0.41             |
+giraffe-20 (ID=10)        | 0.26             |
+giraffe-18 (ID=11)        | 0.22             |
+goldfish-20 (ID=12)       | 0.13             |
+goldfish-17 (ID=13)       | 0.12             |
+goldfish-18 (ID=14)       | 0.13             |
+goldfish-19 (ID=15)       | 0.25             |
+gorilla-20 (ID=16)        | 0.09             |
+gorilla-17 (ID=17)        | 0.16             |
+gorilla-19 (ID=18)        | 0.45             |
+gorilla-18 (ID=19)        | 0.14             |

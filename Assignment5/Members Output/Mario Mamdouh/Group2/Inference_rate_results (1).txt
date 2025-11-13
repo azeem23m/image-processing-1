@@ -1,0 +1,22 @@
+
+                             | seqtrack_b256    |
+horse-20 (ID=0)              | 0.05             |
+horse-18 (ID=1)              | 0.09             |
+horse-19 (ID=2)              | 0.32             |
+horse-17 (ID=3)              | 0.07             |
+kite-18 (ID=4)               | 0.18             |
+kite-20 (ID=5)               | 0.40             |
+kite-19 (ID=6)               | 0.34             |
+kite-17 (ID=7)               | 0.20             |
+kangaroo-19 (ID=8)           | 0.20             |
+kangaroo-17 (ID=9)           | 0.13             |
+kangaroo-20 (ID=10)          | 0.08             |
+kangaroo-18 (ID=11)          | 0.09             |
+leopard-20 (ID=12)           | 0.10             |
+leopard-17 (ID=13)           | 0.12             |
+leopard-18 (ID=14)           | 0.20             |
+leopard-19 (ID=15)           | 0.18             |
+licenseplate-20 (ID=16)      | 0.36             |
+licenseplate-17 (ID=17)      | 2.91             |
+licenseplate-19 (ID=18)      | 32.17            |
+licenseplate-18 (ID=19)      | 28.75            |

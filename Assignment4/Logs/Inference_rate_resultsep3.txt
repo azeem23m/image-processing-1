@@ -1,0 +1,10 @@
+
+                           | seqtrack_b256    |
+mouse-17 (ID=0)            | 0.13             |
+mouse-18 (ID=1)            | 0.11             |
+mouse-19 (ID=2)            | 0.06             |
+mouse-20 (ID=3)            | 0.16             |
+electricfan-17 (ID=4)      | 0.41             |
+electricfan-18 (ID=5)      | 0.17             |
+electricfan-19 (ID=6)      | 0.19             |
+electricfan-20 (ID=7)      | 0.11             |

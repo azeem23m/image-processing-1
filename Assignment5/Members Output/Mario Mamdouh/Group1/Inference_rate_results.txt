@@ -1,0 +1,22 @@
+
+                       | seqtrack_b256    |
+guitar-20 (ID=0)       | 44.44            |
+guitar-18 (ID=1)       | 43.52            |
+guitar-19 (ID=2)       | 11.43            |
+guitar-17 (ID=3)       | 43.55            |
+hat-18 (ID=4)          | 28.81            |
+hat-20 (ID=5)          | 17.66            |
+hat-19 (ID=6)          | 0.47             |
+hat-17 (ID=7)          | 36.05            |
+hand-19 (ID=8)         | 12.24            |
+hand-17 (ID=9)         | 22.73            |
+hand-20 (ID=10)        | 25.13            |
+hand-18 (ID=11)        | 23.56            |
+helmet-20 (ID=12)      | 19.35            |
+helmet-17 (ID=13)      | 5.17             |
+helmet-18 (ID=14)      | 18.65            |
+helmet-19 (ID=15)      | 18.85            |
+hippo-20 (ID=16)       | 41.97            |
+hippo-17 (ID=17)       | 19.47            |
+hippo-19 (ID=18)       | 9.64             |
+hippo-18 (ID=19)       | 25.62            |

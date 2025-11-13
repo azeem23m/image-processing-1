@@ -1,0 +1,22 @@
+
+                          | seqtrack_b256    |
+airplane-18 (ID=0)        | 46.69            |
+airplane-17 (ID=1)        | 9.48             |
+airplane-20 (ID=2)        | 39.80            |
+airplane-19 (ID=3)        | 35.94            |
+basketball-20 (ID=4)      | 33.37            |
+basketball-19 (ID=5)      | 17.86            |
+basketball-18 (ID=6)      | 29.57            |
+basketball-17 (ID=7)      | 3.75             |
+bear-19 (ID=8)            | 21.80            |
+bear-18 (ID=9)            | 41.78            |
+bear-17 (ID=10)           | 26.76            |
+bear-20 (ID=11)           | 19.93            |
+bicycle-20 (ID=12)        | 14.56            |
+bicycle-18 (ID=13)        | 17.51            |
+bicycle-19 (ID=14)        | 33.89            |
+bicycle-17 (ID=15)        | 39.50            |
+bird-20 (ID=16)           | 30.74            |
+bird-18 (ID=17)           | 23.93            |
+bird-19 (ID=18)           | 11.45            |
+bird-17 (ID=19)           | 32.35            |
